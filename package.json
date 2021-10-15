@@ -4,6 +4,25 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@dendronhq/dendron-11ty-legacy": "^0.59.1"
-  }
+    "@dendronhq/dendron-11ty-legacy": "^1.63.1-alpha.0",
+    "@dendronhq/dendron-cli": "^0.63.1-alpha.0"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjaakjules/Dendron-Megafauna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/sjaakjules/Dendron-Megafauna/issues"
+  },
+  "homepage": "https://github.com/sjaakjules/Dendron-Megafauna#readme",
+  "description": ""
 }
