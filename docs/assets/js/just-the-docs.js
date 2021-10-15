@@ -62,7 +62,7 @@
     }
   
     function initNavBar() {
-      return fetch("https://www.julianrutten.com/docs/nav.html").then(function (response) {
+      return fetch("https://sjaakjules.github.io/Dendron-Megafauna/nav.html").then(function (response) {
         return response.text().then((content) => {
           replaceNav(content);
           return;
@@ -80,7 +80,7 @@
     function initSearch() {
       var request = new XMLHttpRequest();
       // TODO: CHECK IF THIS WORKS WITHOUT ABSOLUTE_URL
-      request.open("GET", "https://www.julianrutten.com/docs/assets/js/search-data.json", true);
+      request.open("GET", "https://sjaakjules.github.io/Dendron-Megafauna/assets/js/search-data.json", true);
   
       request.onload = function () {
         if (request.status >= 200 && request.status < 400) {
@@ -514,7 +514,7 @@
       var cssFile = document.querySelector('[rel="stylesheet"]');
       cssFile.setAttribute(
         "href",
-        'https://www.julianrutten.com/docs/assets/css/just-the-docs-' + theme + ".css"
+        'https://sjaakjules.github.io/Dendron-Megafauna/assets/css/just-the-docs-' + theme + ".css"
       );
     };
   
