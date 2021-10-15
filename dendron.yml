@@ -45,3 +45,5 @@ lookup:
         selectionType: selectionExtract
         leaveTrace: false
 initializeRemoteVaults: true
+graph:
+    zoomSpeed: 1 # The speed at which the graph zooms in and out. Lower is slower, higher is faster.
