@@ -2,7 +2,7 @@
 id: az7HZFSV0fDlyZQrDOD0H
 title: Markers
 desc: ''
-updated: 1634538796473
+updated: 1634551194841
 created: 1634528049736
 ---
 Markers are the components of actions. Markers can take the form of:
@@ -22,7 +22,8 @@ Pattern extraction, expressed as color information associated with the point clo
 ![](/assets/images/2021-10-18-14-42-20.png)
 
 ### Annotations and Camera Origin Transforms
-![](/assets/images/annotation8.gif)
+
+![](/assets/images/annotation.gif)
 
 ![](/assets/images/2021-10-18-14-47-53.png)
 
