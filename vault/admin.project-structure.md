@@ -2,7 +2,7 @@
 id: l8NojJvWuJrGAfc4j0ZKm
 title: Project Structure
 desc: ''
-updated: 1634525831290
+updated: 1634538226865
 created: 1634269245118
 ---
 
@@ -32,7 +32,7 @@ The source environment is self-hosted using the potree and 3Js frameworks.
 
 ### Actions
 
-Actions are metadata linking the research cluster with the source environment. Actions are described using the following markers:
+Actions are metadata linking the research cluster with the source environment. Actions are described using the following [[admin.project-structure.markers]]:
 
 - point cloud styling (point cloud files: colours, sizes)
 - point cloud interactions (javascript: specify annotations, colours, lines, callouts, buttons, animations)
