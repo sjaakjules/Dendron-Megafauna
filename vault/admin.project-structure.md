@@ -2,7 +2,7 @@
 id: l8NojJvWuJrGAfc4j0ZKm
 title: Project Structure
 desc: ''
-updated: 1634282545148
+updated: 1634525831290
 created: 1634269245118
 ---
 
@@ -12,9 +12,9 @@ This project is organised as four parts
 
 The research cluster is a hierarchically organised,  interconnected set of annotations, notes and documents. The research cluster provides tnhe significance for the project. It is broken down into three major sub-clusters:
 
-- project
-- methods
-- concepts
+- [[admin.project-structure]]
+- [[methods]]
+- [[concepts]]
 
 The research cluster is hosted on github and uses the dendron framework.
 
@@ -22,10 +22,11 @@ The research cluster is hosted on github and uses the dendron framework.
 
 The source environment is a multi-format, multi-scalar, semi-structured  dataset specific to a place. It is comprised of:
 
-- GIS information
-- aerial lidar
-- terrestrial lidar
-- sychrotron tomographic data
+- [[methods.stories.stages.100km-biome.GIS]] data
+- [[methods.stories.event.patterns.aerial-lidar]]
+- [[methods.stories.stages.100m-forest-stand.terrestrial-lidar]] and [[methods.stories.stages.10m-organism.terrestrial-lidar-section]] sections
+- [[methods.stories.stages.1m-organism-part.IMBL-high-energy]] tompgrahic data
+- [[methods.stories.stages.1cm-near-surface.IMBL-low-energy]] tomopgrahic data
 
 The source environment is self-hosted using the potree and 3Js frameworks.
 
@@ -33,7 +34,8 @@ The source environment is self-hosted using the potree and 3Js frameworks.
 
 Actions are metadata linking the research cluster with the source environment. Actions are described using the following markers:
 
-- point cloud styling (javascript: specify annotations, colours, lines, callouts, buttons, animations)
+- point cloud styling (point cloud files: colours, sizes)
+- point cloud interactions (javascript: specify annotations, colours, lines, callouts, buttons, animations)
 - point cloud location (xyz vector embedded within the URL).
 
 Where possible, notes in the research cluster should be linked to the source environment with styling and location markers.
