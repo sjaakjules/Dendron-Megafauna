@@ -2,10 +2,12 @@
 id: az7HZFSV0fDlyZQrDOD0H
 title: Markers
 desc: ''
-updated: 1634530901261
+updated: 1634537849657
 created: 1634528049736
 ---
-## Styles
+Markers are the components of actions. Markers can take the form of:
+
+## Point Cloud Styles
 
 ### Colours
 
@@ -14,32 +16,35 @@ Pattern extraction, expressed as color information associated with the point clo
 ![](/assets/images/2021-10-18-14-38-56.png)
 
 
-
-
-
-## Interactions
+## Viewer Interactions
 
 ### Targets
 
 ![](/assets/images/2021-10-18-14-42-20.png)
 
-### Annotations
+### Annotations and Camera Origin Transforms
+![](/assets/images/annotation8.gif)
 
 ![](/assets/images/2021-10-18-14-47-53.png)
 
 Annotations are:
 
-- hierachical
+- hierarchical
 - interactive
-
-![](/assets/images/collapse.gif)
-
-### Camera Path Rails
 
 ### Sections
 
+![](/assets/images/crop2.apng)
 
-## Locations
+Sections can be:
+
+- automatic or user controlled
+- section cuts/handles visible or exposed
+
+### Camera Path Rails
+
+
+## Location from URL
 ie. www.example.com/-x19022.4-y12313.1-z102.1
 
 
