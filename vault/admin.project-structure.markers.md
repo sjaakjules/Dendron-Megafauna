@@ -2,7 +2,7 @@
 id: az7HZFSV0fDlyZQrDOD0H
 title: Markers
 desc: ''
-updated: 1634538362697
+updated: 1634538796473
 created: 1634528049736
 ---
 Markers are the components of actions. Markers can take the form of:
