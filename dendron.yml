@@ -37,11 +37,21 @@ site:
         action: useVault
         payload:
             - vault
-    siteUrl:  https://sjaakjules.github.io/Dendron-Megafauna/
-version: 1
-lookupConfirmVaultOnCreate: false
-lookup:
-    note:
-        selectionType: selectionExtract
-        leaveTrace: false
+    siteUrl: 'https://sjaakjules.github.io/Dendron-Megafauna/'
+version: 2
 initializeRemoteVaults: true
+commands:
+    lookup:
+        note:
+            selectionMode: extract
+            confirmVaultOnCreate: false
+            leaveTrace: false
+    randomNote: {}
+    insertNote:
+        initialValue: templates
+    insertNoteLink:
+        aliasMode: none
+        enableMultiSelect: false
+    insertNoteIndex:
+        enableMarker: false
+dendronVersion: 0.64.0

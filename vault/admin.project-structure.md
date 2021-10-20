@@ -22,11 +22,11 @@ The research cluster is hosted on github and uses the dendron framework.
 
 The source environment is a multi-format, multi-scalar, semi-structured  dataset specific to a place. It is comprised of:
 
-- [[methods.stories.stages.100km-biome.GIS]] data
-- [[methods.stories.event.patterns.aerial-lidar]]
-- [[methods.stories.stages.100m-forest-stand.terrestrial-lidar]] and [[methods.stories.stages.10m-organism.terrestrial-lidar-section]] sections
-- [[methods.stories.stages.1m-organism-part.IMBL-high-energy]] tompgrahic data
-- [[methods.stories.stages.1cm-near-surface.IMBL-low-energy]] tomopgrahic data
+- [[methods.stories.component.stages.100km-biome.GIS]] data
+- [[methods.stories.component.event.patterns.aerial-lidar]]
+- [[methods.stories.component.stages.100m-forest-stand.terrestrial-lidar]] and [[methods.stories.component.stages.10m-organism.terrestrial-lidar-section]] sections
+- [[methods.stories.component.stages.1m-organism-part.IMBL-high-energy]] tompgrahic data
+- [[methods.stories.component.stages.1cm-near-surface.IMBL-low-energy]] tomopgrahic data
 
 The source environment is self-hosted using the potree and 3Js frameworks.
 

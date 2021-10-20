@@ -2,7 +2,7 @@
 id: az7HZFSV0fDlyZQrDOD0H
 title: Markers
 desc: ''
-updated: 1634551428877
+updated: 1634693786083
 created: 1634528049736
 ---
 Markers are the components of actions. Markers can take the form of:
@@ -14,6 +14,18 @@ Markers are the components of actions. Markers can take the form of:
 Pattern extraction, expressed as color information associated with the point cloud
 
 ![](/assets/images/2021-10-18-14-38-56.png)
+
+Organism boundaries
+![](/assets/images/2021-10-20-12-35-30.png)
+
+Feature selection
+![](/assets/images/2021-10-20-12-33-38.png)
+
+Roughness
+![](/assets/images/2021-10-20-12-34-11.png)
+
+Leaf branch differentiation
+![](/assets/images/2021-10-20-12-36-21.png)
 
 ## Viewer Interactions
 
@@ -43,6 +55,15 @@ Sections can be:
 
 ### Camera Path Rails
 
+<iframe width="1000" height="700" src="https://www.julianrutten.com/testLand/testLand/styx2.html" frameborder="0" allowfullscreen></iframe>
+
 ## Location from URL
 
 ie. www.example.com/-x19022.4-y12313.1-z102.1
+
+## To do
+
+- animation
+- geolocated point clouds
+- embedded images
+
