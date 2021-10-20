@@ -2,9 +2,11 @@
 id: l8NojJvWuJrGAfc4j0ZKm
 title: Project Structure
 desc: ''
-updated: 1634538226865
+updated: 1634718401821
 created: 1634269245118
 ---
+
+#content
 
 This project is organised as four parts
 
@@ -14,7 +16,7 @@ The research cluster is a hierarchically organised,  interconnected set of annot
 
 - [[admin.project-structure]]
 - [[methods]]
-- [[concepts]]
+- [[themes]]
 
 The research cluster is hosted on github and uses the dendron framework.
 
@@ -44,5 +46,5 @@ Where possible, notes in the research cluster should be linked to the source env
 
 Stories are paths through the project. They can take the form of
 
-- freeform, exploritary and DIY stories participants can construct for themselves by exploring the research cluster on GitHub
+- freeform, exploritary  and DIY stories participants can construct for themselves by exploring the research cluster on GitHub
 - videos, gifs and images describing key stories
