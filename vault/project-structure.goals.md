@@ -2,7 +2,7 @@
 id: L5L0aN0JmOdmStPiVLvse
 title: Goals
 desc: ''
-updated: 1634784380235
+updated: 1634785295145
 created: 1634269248702
 ---
 
@@ -14,7 +14,15 @@ created: 1634269248702
 
 - Participatory: supporting multiple interpretations, multiple forms of communication (?), expresing care, cooperation. 
 
-- Place-based: local, etc.. .....
+- Place-based: local, etc.. ..... {Myabe related to above three}
+
+- Preservation: record of events, relationships, stories.
+
+- Translation: {Julian's version of participatory?}
+
+- Performing: {Julian's version of inclusive?}
+
+- Exposing: {Julian's version of Activist?}
 
 TODO: add place goal
 
