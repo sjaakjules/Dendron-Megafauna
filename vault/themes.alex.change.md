@@ -2,13 +2,14 @@
 id: UJRIZ8TzUYNLVFRlWYJ7M
 title: Change
 desc: ''
-updated: 1634781518524
+updated: 1634782715233
 created: 1634267816291
 ---
 ## Activism 
 
 - expliclity experimental research
 - seeking to change narratives
+
 ## Management
 
 - preserving dissapearing unique structures
