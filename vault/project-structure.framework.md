@@ -2,7 +2,7 @@
 id: l8NojJvWuJrGAfc4j0ZKm
 title: Framework
 desc: ''
-updated: 1634718401821
+updated: 1634784770677
 created: 1634269245118
 ---
 
@@ -12,7 +12,7 @@ This project is organised as four parts
 
 ### Research Cluster
 
-The research cluster is a hierarchically organised,  interconnected set of annotations, notes and documents. The research cluster provides tnhe significance for the project. It is broken down into three major sub-clusters:
+The research cluster is a hierarchically organised,  interconnected set of annotations, notes and documents. It is a cluster of knowledge, with information that flows through the cluster in particular ways. It is broken down into three major sub-clusters:
 
 - [[admin.project-structure]]
 - [[methods]]
@@ -30,6 +30,12 @@ The source environment is a multi-format, multi-scalar, semi-structured  dataset
 - [[methods.stories.component.stages.1m-organism-part.IMBL-high-energy]] tompgrahic data
 - [[methods.stories.component.stages.1cm-near-surface.IMBL-low-energy]] tomopgrahic data
 
+The source environment is also multi-format, supporting: 
+  - images
+  - gifs
+  - links
+  - embedded inline
+
 The source environment is self-hosted using the potree and 3Js frameworks.
 
 ### Actions
@@ -44,7 +50,11 @@ Where possible, notes in the research cluster should be linked to the source env
 
 ### Stories
 
-Stories are paths through the project. They can take the form of
+Stories are paths through the project. They are  vehicles that can make the friction in the networks of relationships higher or lower, and filter what is being transmitted. 
+- Stories focuses  attention, highlight certain relationships, encourage people to consider our core themes
+- Stories have: characters, stages, event
 
-- freeform, exploritary  and DIY stories participants can construct for themselves by exploring the research cluster on GitHub
-- videos, gifs and images describing key stories
+They can take the form of
+
+- freeform, exploratory  and DIY stories participants can construct for themselves by exploring the research cluster on GitHub
+- videos, gifs and images,
