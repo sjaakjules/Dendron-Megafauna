@@ -2,7 +2,7 @@
 id: 03kFJsL86WeELd9NFOHhY
 title: Large
 desc: ''
-updated: 1634718266734
+updated: 1634775367117
 created: 1634718130498
 ---
 #content
@@ -114,8 +114,8 @@ From [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasmania
 
 **Styx (Living)**
 
-![](/assets/images/2021-10-20-13-55-23.png)
-
+`![](/assets/images/2021-10-20-13-55-23.png)
+`
 
 **Bennets (Burnt but Standing)**
 
@@ -214,7 +214,7 @@ Bennets - top of tree
 
 ![](/assets/images/2021-10-20-12-52-24.png)
 
-Bennets - source: Yoav's art guy
+Bennets - Source: Yoav's art guy
 
 
 ![](/assets/images/bennets/bennets-3.jpg)
@@ -257,22 +257,22 @@ Arve - base
 
 ![](/assets/images/2021-10-20-15-44-08.png)
 
-Styx - other tree base
+Styx - other tree base. Source: [The Tree Projects](https://www.thetreeprojects.com)
 
 
 ![](/assets/images/2021-10-20-15-45-36.png)
 
-Styx - other tree
+Styx - other tree. Source: [The Tree Projects](https://www.thetreeprojects.com)
 
 
 ![](/assets/images/2021-10-20-13-51-33.png)
 
-Styx - road with large tree
+Styx - road with large tree. Source: [The Tree Projects](https://www.thetreeprojects.com)
 
 
 ![](/assets/images/2021-10-20-13-52-47.png)
 
-Styx - other tree
+Styx - other tree. 
 
 
 
