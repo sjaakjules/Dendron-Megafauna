@@ -6,4 +6,4 @@ updated: 1634283740933
 created: 1634169732979
 ---
 
-![[admin.project-structure]]
+![[project-structure.framework]]
