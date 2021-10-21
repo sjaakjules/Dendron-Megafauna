@@ -2,7 +2,7 @@
 id: 03kFJsL86WeELd9NFOHhY
 title: Large
 desc: ''
-updated: 1634775367117
+updated: 1634776318125
 created: 1634718130498
 ---
 #content
@@ -87,6 +87,7 @@ Location of sites.
 ### (1) Tolken Track, Styx
 
 ![](/assets/images/2021-10-20-13-51-04.png)
+Source: [The Tree Projects](https://www.thetreeprojects.com/styx-valley)
 
 
 >Some of the remaining giant trees of the Styx Valley were saved from logging by years of dedicated campaigning by the Wilderness Society & Greenpeace. In 2013, part of the Styx Valley was incorporated into the Tasmanian Wilderness World Heritage Area thanks to the Tasmanian Forestry Agreement, which is sometimes called the Forest Peace Deal. Successive Tasmanian governments have worked hard to dismantle this agreement.
@@ -114,8 +115,7 @@ From [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasmania
 
 **Styx (Living)**
 
-`![](/assets/images/2021-10-20-13-55-23.png)
-`
+![](/assets/images/2021-10-20-13-55-23.png)
 
 **Bennets (Burnt but Standing)**
 
