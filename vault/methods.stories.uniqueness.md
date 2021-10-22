@@ -1,23 +1,27 @@
 ---
 id: 03kFJsL86WeELd9NFOHhY
-title: Large
+title: Uniqueness
 desc: ''
-updated: 1634776318125
+updated: 1634874893965
 created: 1634718130498
 ---
 #content
 
-# Change
-This story is about anthropogenic change
+### 
+>Referring to Earth’s climate emergency, Pearce says: “These trees are at the limit of physics, the greatest expression of nature possible given their environment. They evolved to grow under the conditions we had but don’t have any more. We will never see such trees again.”
+
+From [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasmanias-flowering-giants-we-will-never-see-such-trees-again)
+
 ### Fire
 
 > Like most other places, Tasmania’s average temperatures have risen 1C in the last century and the heatwaves are more frequent and the air drier, a potent fire mix. “The big trees just copped it. The tiny reserves for big trees that remain after 100 years of clearfell logging didn’t stand a chance,” says Pearce.
 
 From [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasmanias-flowering-giants-we-will-never-see-such-trees-again)
 
-![](https://i.guim.co.uk/img/media/b427e176f3b56a13374761fe2e351b464b814dd0/0_0_1577_2400/master/1577.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=62cdc64300a8edbc11e2f10c8b643fa5)
 
-From [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasmanias-flowering-giants-we-will-never-see-such-trees-again)
+![](/assets/images/bennets/bennets-5.jpg)
+
+Bennets - burned husk with person
 
 
 ![](https://i.guim.co.uk/img/media/ad5cc5007ddcd528a28a8ddf7d43e000d2afe1d2/0_0_2400_1601/master/2400.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=108f5a28acee90d8b63ab7414f844582)
@@ -37,13 +41,13 @@ Fires 2019 and large trees. From [The Tree Projects](https://www.thetreeprojects
 ### Logging
 ![](/assets/images/2021-10-20-15-43-34.png)
 
-
 ![](/assets/images/styx/styx-1-2.jpg)
 
 Logging at the Styx. 
 
+>STT (Sustainable Timbers Tasmania) is the custodian of the public forests and says it does not log trees taller than 85 metres or more than 280 cubic metres in volume. It lists some 150 such giants. However, the state premier, Will Hodgman, has authorised it to log stands of the next generation of the world’s tallest flowering trees. The younger giant eucalypts are being trucked out of the southern forests, which are among the world’s most carbon-dense forests. The national environment minister, Sussan Ley, backs the logging.
 
-To do: insert description
+From [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasmanias-flowering-giants-we-will-never-see-such-trees-again)
 
 ### Recognition
 
@@ -185,11 +189,6 @@ Bennets - burned tree
 ![](/assets/images/2021-10-20-16-05-15.png)
 
 Bennets - burned tree
-
-
-![](/assets/images/bennets/bennets-5.jpg)
-
-Bennets - burned husk with person
 
 
 ![](/assets/images/2021-10-20-12-51-26.png)
