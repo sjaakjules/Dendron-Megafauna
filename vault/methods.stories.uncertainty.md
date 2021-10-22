@@ -1,16 +1,21 @@
 ---
 id: KiRcGXhJrEUcyVMEn23NV
-title: Medium
+title: Uncertainty
 desc: ''
-updated: 1634773559705
+updated: 1634874611637
 created: 1634716730164
 ---
 #content
 
-This story is about a Euclytpus regans
+This story is about a Euclytpus regans canopy
 
 
 ![](/assets/images/2021-10-20-15-40-56.png)
+
+>Every time you go to a giant tree you see something new in it and yourself. I see something that’s been alive hundreds of years before me and will be there hundreds of years after me. It’s humbling to consider all the years of my life are merely a small chapter of theirs. Climbing these trees is where I started. Up a tree you see things from a perspective no one else has ever seen.”
+
+From [The Guardian](https://www.theguardian.com/environment/2019/dec/15/tasmanias-flowering-giants-we-will-never-see-such-trees-again)
+
 
 ![](/assets/images/2021-10-20-15-46-18.png)
 

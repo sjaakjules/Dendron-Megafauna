@@ -2,15 +2,20 @@
 id: l8NojJvWuJrGAfc4j0ZKm
 title: Framework
 desc: ''
-updated: 1634784770677
+updated: 1634787277306
 created: 1634269245118
 ---
 
 #content
 
+
+What is knowledge? - body shape, behaviour, subjectivity and perception, patterns of interaction, data, scientific hypothesis, story telling.
+
 This project is organised as four parts
 
 ### Research Cluster
+TODO: rename research cluster - More-than-human knowledge management?
+
 
 The research cluster is a hierarchically organised,  interconnected set of annotations, notes and documents. It is a cluster of knowledge, with information that flows through the cluster in particular ways. It is broken down into three major sub-clusters:
 
@@ -21,6 +26,8 @@ The research cluster is a hierarchically organised,  interconnected set of annot
 The research cluster is hosted on github and uses the dendron framework.
 
 ### Source Environment
+
+Instantiated / knowledge units / knowledge objects. Processes. Compat processes (eents). Artefacts (digital data).
 
 The source environment is a multi-format, multi-scalar, semi-structured  dataset specific to a place. It is comprised of:
 

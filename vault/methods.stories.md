@@ -2,10 +2,27 @@
 id: s9wkf6eel5bM3s7DSlu85
 title: Stories
 desc: ''
-updated: 1634784727018
+updated: 1634788374063
 created: 1634169842138
 ---
 #content
+
+## Criteria
+
+1. Demonstrate that this kind of story telling is substantive..
+- understand what stories exist in the human domain
+- how our understanding of stories can be extended to include the nonhumans
+- demonstrate how our stories are substantially different from the stories in the human domain, retaining the benefits of the human only stories
+
+2. Demonstrate benefits
+- new stakeholders, greater flexibilioty, unrecorded events, cope with spatial / time scales, non individual lifeforms, etc. 
+- demonstrate some of the componens.
+
+3. Clear reason to tell the story. Stories need to be told. 
+- distinguish one story for another
+- trans-species pyschology 
+
+4. Return back to how we are going to verify this. 
 
 ## Goals
 - improvisational - sit and observe the stories
