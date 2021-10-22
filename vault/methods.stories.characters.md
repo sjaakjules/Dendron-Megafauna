@@ -6,6 +6,7 @@ updated: 1634783704120
 created: 1634718415236
 stub: true
 ---
+
 ## Plantae / E. regnans tree 
 - Geological history: ice-age, drying out results in a mix between moist-loving remnant Gondwana species (ferns, myrtle, etc) and fire-loving eucalypts.
 - Life relationships. Succession of this particular forest stand: microclimate means that this stand has had little disturbances for hundreds of years, resulting in a stand of giant e. Regnans trees.
