@@ -2,7 +2,7 @@
 id: qsTbW2toix0b5dM2R948J
 title: Meetings
 desc: ''
-updated: 1634888235103
+updated: 1634889021166
 created: 1634881306877
 ---
 ## Meeting Thurs 20211022
@@ -46,7 +46,10 @@ This particular environment allows us to glue content together that is resolved 
 Bits and pieces. Relationships between them.
 - information (going down the graph)
 - wisdom (going up the graph)
+
 Stuff (?) flows through this, ie. love, beauty
+
+TODO: SR - clarify what you mean by 'stuff flows through this, ie. love and beauty'
 
 TODO: define broader account of knowledge clusters so we can link together our speculative imagination about parrots in 10,000 years with protests about indigenous mother trees with the terrestrial lidar scanning.
 
