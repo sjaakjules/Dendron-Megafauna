@@ -2,9 +2,10 @@
 id: hvdpiy1ZYnqmYnGUiVy0B
 title: Communicative Identity in Plant Behaviour
 desc: ''
-updated: 1634876453427
+updated: 1634881117779
 created: 1634875294060
 ---
+#reference
 
 >There is a clear reason why philosophy of consciousness was abandoned and was replaced by the philosophy of language: It was not possible to reach a satisfactory definition of consciousness for many centuries until today, because of inescapable problems of definition. The various consciousness concepts of the last centuries met the pre-assumptions of humans as they defined themselves. But with the success story of neurobiology, it became clear that the term consciousness is an anthropo- centric construction to integrate the signalling interactions between several brain tissues in a unifying narrative. If some of the communication brain parts are deformed or damaged, consciousness looks rather strange, and the deficits in the different concepts of consciousness become obvious (Parvizi and Damasio 2001, 2003). For example, the generalizing term consciousness is like how we speak about the national character of, for example, Austria. But, Austria does not exist, except the 8 million people who coordinate and organize the Austrian lifeworld every day by communication processes that even may fail with unexpectable consequences.
 >

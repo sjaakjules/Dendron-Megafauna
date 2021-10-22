@@ -2,9 +2,10 @@
 id: yFnQSzGg4hxpZj2D7r7Ad
 title: The Emergence of Self/Non-self Differentiation Competence
 desc: ''
-updated: 1634876469594
+updated: 1634881122364
 created: 1634875569954
 ---
+#reference 
 
 >In symbiotic processes, species-specific communication competence has to be adapted to trans-species communication processes, which means that symbiotic processes depend on adaptation to signalling codes that transgress species borders in most cases. Natural codes function if three levels of rules are followed: syntactic rules determine coherent combination of signals, pragmatic rules determine how code-using agents interact according to changing contexts, and semantic rules determine which meaning/information can be transported with signals.
 >
