@@ -2,7 +2,7 @@
 id: qt6nuFMr5H0WfCoUbJbN5
 title: Decay
 desc: ''
-updated: 1634973688425
+updated: 1634981401244
 created: 1634853986134
 ---
 
@@ -38,48 +38,56 @@ The process of aging and decay is called [senescence](https://doi.org/10/f4hjpx)
 
 <br>
 
-<details>
-<summary>In particular, bark is important.</summary>
-
-## Bark
-
 >Careful observation of tree bark reveals that it is a landscape unto itself, complete with varying microtopography, composition, and texture, and both micro- and macro-organisms live in, live on, or traverse it during their life cycles. 
 >>From [MacFarlane and Luo, “Quantifying Tree and Forest Bark Structure with a Bark-Fissure Index.”](https://cdnsciencepub.com/doi/10.1139/X09-098)
+
+<br>
 
 >Because of its role in support of various ecosystem functions, the amount and variability of bark microhabitat features has been suggested as an indicator of forest biodiversity
 >>From [Winter and Möller, “Microhabitats in Lowland Beech Forests as Monitoring Tool for Nature Conservation.”](https://doi.org/10/dx44wv)
 
+<br> 
 
-## Bark Streamers
-Bark streamers – a critical resource provided by overstorey ash- type eucalypt trees.
+<details>
+<summary>Fallen logs, leaf liter, and bark debris produce a complex range of microhabitats.</summary>
+
+## Bark streamers 
+Bark streamers are a critical resource provided by overstorey ash- type eucalypt trees.
 
 >Strips of decorticating bark are a vital attribute of overstorey montane ash trees for a number of animal species. Bark is shed annually and forms spectacular streamers on Mountain Ash and, to a lesser extent, Alpine Ash trees. Several tonnes of bark per hectare are shed annually, adding considerably to the amount of litter in montane ash forests. Large old trees produce significantly more bark than young stems (Lindenmayer et al. 2000a). Bark streamers provide habitat for a wide range of invertebrates such as spiders and predatory wingless tree crickets. These invertebrates are, in turn, prey for several species of marsupials (Smith 1984b) and birds. The presence and abundance of Leadbeater’s Possum has been found to be significantly related to the quantity of bark in montane ash forests (Lindenmayer et al. 1991d).
 >>from [Lindenmayer, "Structural features of old-growth Australian montane ash forests"](https://www.sciencedirect.com/science/article/abs/pii/S0378112799002571)
 
-</details>
-<br>
-<details>
-<summary>Fallen logs and decaying brances are crucial sites.</summary>
+## Inhabitants of bark
 
-## Fallen Logs
->Logs are nursery sites for some species of plants and provide places for the germination and growth of ferns, mosses and liverworts in montane ash forest (Ashton 1986). Detailed vegetation surveys (Lindenmayer et al. 2000b) have shown that Myrtle Beech trees in montane ash forests often germinate on rotting logs. The water and organic matter in rotting logs then facilitates the growth of young seedlings (Howard 1973). Other understorey plant species common in montane ash forests, such as Dogwood, Musk Daisy Bush and Mountain Pepper, also germinate on rotting logs. 
->
-</details>
-
-![Image of habitat surrounding tree](\assets\images\bennets\IMG_7106.JPG)
-
-
-# Inhabitants
 >Many arthropods make a living in and around tree bark, feeding on the sapwood beneath it, overwintering in its fissures and crevices, or simply traversing it en route to the canopy or the soil (Hanula and Franzreb 1998). Larger animals may forage on (e.g., horses; Kuiters et al. 2006) or in (e.g., woodpeckers; Jackson 1970) tree bark, and some even live in bark crevices (e.g., bats (Carter and Feldhamer 2005) and birds (Wintle et al. 2005)). 
 Bark-gleaning birds (e.g., brown creepers (Certhia ameri- cana Bonaparte); Wintle et al. 2005), in particular, are strongly dependent on fissures in tree bark for their survival, foraging on arthropods in bark fissures and even storing food in them (Woodrey 1990). One species of nuthatch, Sitta europaea, lines its nest holes with bark flakes and uses them to conceal its eggs or young when it is away from the nest (Wesolowski and Rowinski 2004). Some studies have suggested that bark-foraging birds may be affected by an in- crease or decrease in the foraging space provided by tree bark (Keller et al. 2003) or a change in the abundance and biodiversity of their bark-using prey (Hanula and Franzreb 1998; Horn and Hanula 2002).
 >>From [MacFarlane and Luo, “Quantifying Tree and Forest Bark Structure with a Bark-Fissure Index.”](https://cdnsciencepub.com/doi/10.1139/X09-098)
 
-## Inhabitants of Bark
 >In living trees, structural and chemical defence traits, mainly in the outer bark, play a crucial role in protecting these nutrient‐rich tissues against herbivores (Wainhouse, Cross & Howell 1990; Paine et al. 2010) and may have afterlife effects (Cornwell et al. 2009a) that may inhibit invertebrate access. Therefore, in the early (initial 1–2 years) decomposition stage, when the bark (cortisphere; Pfanz & Aschan 2001) is still attached to the wood, bark traits may be a crucial environmental filter for associated fauna assembly (Wu, Yu & Zhou 2008; Barbour et al. 2009; Zuo et al. 2014). At later decomposition stage, wood traits will become more important, partly because much of the bark will have fallen off and/or bark traits of different species become more similar due to degradation. Bark traits can also affect the species composition indirectly, by changing predator–prey interactions. 
 >>From [Zuo et al., “Faunal Community Consequence of Interspecific Bark Trait Dissimilarity in Early-Stage Decomposing Logs.”](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.12676)
 
-## Fallen Logs
+## Fallen logs
+>Logs are nursery sites for some species of plants and provide places for the germination and growth of ferns, mosses and liverworts in montane ash forest (Ashton 1986). Detailed vegetation surveys (Lindenmayer et al. 2000b) have shown that Myrtle Beech trees in montane ash forests often germinate on rotting logs. The water and organic matter in rotting logs then facilitates the growth of young seedlings (Howard 1973). Other understorey plant species common in montane ash forests, such as Dogwood, Musk Daisy Bush and Mountain Pepper, also germinate on rotting logs. 
+>
 
-
+## Inhabitants of fallen logs and dead trunks
 A dead trunk is colonized by a vast array of species when it falls to the ground, but the extensive literature on dead wood invertebrates (Grove 2002; Castro & Wise 2010; Déchêne & Buddle 2010; Ulyshen, Pucci & Hanula 2011) has still left questions unanswered about how, and how much, different factors determine the community composition of log‐related fauna. This is partly because most field sampling studies cannot disentangle the (interactive) effects of forest environment and log microenvironment, wood and bark traits of tree species, their decomposition stage, time of the year and the available pool of invertebrate species. 
 >>From [Winter and Möller, “Microhabitats in Lowland Beech Forests as Monitoring Tool for Nature Conservation.”](https://doi.org/10/dx44wv)
+
+</details>
+
+<br>
+
+
+The following images show the complexity of these habitats. 
+![Image of habitat surrounding tree](\assets\images\bennets\IMG_7106.JPG)
+
+
+
+# Near surface habitats
+
+Near-surface habitats is a useful classification for these crucial microhabitats that can help design and architecture. 
+
+TODO: develop argument for this and reduce claim.
+
+
